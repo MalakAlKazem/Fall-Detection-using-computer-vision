@@ -15,9 +15,14 @@ Key Points of the Project 🌟;
 <br><br>
 📞 Emergency Calls; If there is no response within the specified time frame the app automatically calls the emergency contact number.<br><br>
  <b>Please read our report submitted above in the Documentation:Fall Detection System using Computer Vision.pdf<b><br><br><br>
- ![](AppPic/Screenshot_20240517_204324.png)<br>
- ![](AppPic/Screenshot_20240517_204448.png)<br>
- ![](AppPic/Screenshot_20240517_204637.png)<br>
- ![](AppPic/Screenshot_20240517_204501.png)<br>
+ ## Screenshots
+ <div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
+  <img src="AppPic/Screenshot_20240517_204324.png" alt="" width="200" style="margin-right: 10px;" />
+  <img src="AppPic/Screenshot_20240517_204448.png" alt="" width="200" style="margin-right: 10px;" />
+  <img src="AppPic/Screenshot_20240517_204637.png" alt="" width="200" style="margin-right: 10px;" />
+  <img src="AppPic/Screenshot_20240517_204501.png" alt="" width="200" style="margin-right: 10px;" />
+
+</div>
+
 <b>You can read our report submitted above </b>
 
