@@ -17,10 +17,10 @@ Key Points of the Project 🌟;
  <b>Please read our report submitted above in the Documentation:Fall Detection System using Computer Vision.pdf<b><br><br><br>
  ## Screenshots
  <div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-  <img src="AppPic/Screenshot_20240517_204324.png" alt="" width="200" style="margin-right: 10px;" />
-  <img src="AppPic/Screenshot_20240517_204448.png" alt="" width="200" style="margin-right: 10px;" />
-  <img src="AppPic/Screenshot_20240517_204637.png" alt="" width="200" style="margin-right: 10px;" />
-  <img src="AppPic/Screenshot_20240517_204501.png" alt="" width="200" style="margin-right: 10px;" />
+  <img src="AppPic/Screenshot_20240517_204324.png" alt="" width="200" style="margin-right: 20px;" />
+  <img src="AppPic/Screenshot_20240517_204448.png" alt="" width="200" style="margin-right: 20px;" />
+  <img src="AppPic/Screenshot_20240517_204637.png" alt="" width="200" style="margin-right: 20px;" />
+  <img src="AppPic/Screenshot_20240517_204501.png" alt="" width="200" style="margin-right: 20px;" />
 
 </div>
 
